@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "nama_bahan": "Beras Premium",
+    "kategori": "Karbohidrat",
+    "stok": 50,
+    "satuan": "Kg"
+  },
+  {
+    "id": 2,
+    "nama_bahan": "Daging Ayam Broiler",
+    "kategori": "Daging",
+    "stok": 15,
+    "satuan": "Kg"
+  },
+  {
+    "id": 3,
+    "nama_bahan": "Daging Sapi Has",
+    "kategori": "Daging",
+    "stok": 4,
+    "satuan": "Kg"
+  },
+  {
+    "id": 4,
+    "nama_bahan": "Ikan Segar Kakap",
+    "kategori": "Seafood",
+    "stok": 8,
+    "satuan": "Kg"
+  },
+  {
+    "id": 5,
+    "nama_bahan": "Minyak Goreng",
+    "kategori": "Bumbu & Minyak",
+    "stok": 30,
+    "satuan": "Liter"
+  },
+  {
+    "id": 8,
+    "nama_bahan": "Cabai Merah Keriting",
+    "kategori": "Bumbu",
+    "stok": 3,
+    "satuan": "Kg"
+  },
+  {
+    "id": 9,
+    "nama_bahan": "Cabai Rawit Domba",
+    "kategori": "Bumbu",
+    "stok": 2,
+    "satuan": "Kg"
+  },
+  {
+    "id": 10,
+    "nama_bahan": "Garam Halus",
+    "kategori": "Bumbu",
+    "stok": 20,
+    "satuan": "Pack"
+  },
+  {
+    "id": 11,
+    "nama_bahan": "Gula Pasir",
+    "kategori": "Bumbu",
+    "stok": 25,
+    "satuan": "Kg"
+  },
+  {
+    "id": 12,
+    "nama_bahan": "Telur Ayam Negeri",
+    "kategori": "Protein Hewani",
+    "stok": 10,
+    "satuan": "Tray"
+  },
+  {
+    "id": 13,
+    "nama_bahan": "Tepung Terigu",
+    "kategori": "Karbohidrat",
+    "stok": 18,
+    "satuan": "Kg"
+  },
+  {
+    "id": 14,
+    "nama_bahan": "Tepung Tapioka",
+    "kategori": "Karbohidrat",
+    "stok": 12,
+    "satuan": "Kg"
+  },
+  {
+    "id": 15,
+    "nama_bahan": "Santan Instan",
+    "kategori": "Produk Olahan",
+    "stok": 40,
+    "satuan": "Pcs"
+  },
+  {
+    "id": 16,
+    "nama_bahan": "Kecap Manis",
+    "kategori": "Bumbu & Minyak",
+    "stok": 14,
+    "satuan": "Botol"
+  },
+  {
+    "id": 17,
+    "nama_bahan": "Saus Tomat",
+    "kategori": "Bumbu & Minyak",
+    "stok": 9,
+    "satuan": "Botol"
+  },
+  {
+    "id": 18,
+    "nama_bahan": "Wortel Segar",
+    "kategori": "Sayuran",
+    "stok": 7,
+    "satuan": "Kg"
+  },
+  {
+    "id": 19,
+    "nama_bahan": "Kentang Dieng",
+    "kategori": "Sayuran",
+    "stok": 11,
+    "satuan": "Kg"
+  },
+  {
+    "id": 20,
+    "nama_bahan": "Daun Bawang & Seledri",
+    "kategori": "Sayuran",
+    "stok": 1,
+    "satuan": "Kg"
+  }
+]
