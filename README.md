@@ -12,12 +12,11 @@
 ### 1. Jalankan Backend (FastAPI)
 
 ## Buka terminal pertama, lalu ketik perintah berikut:
-bash
-cd backend
+cd C:\Users\welcome\uts_wad05\mini_project_restoran\backend
 python -m uvicorn main:app --reload --port 8000
 
 ## 2. Jalankan Frontend (Python HTTP Server)
 
 ## Buka terminal kedua, lalu ketik perintah berikut:
-cd frontend
+cd C:\Users\welcome\uts_wad05\mini_project_restoran\frontend
 python -m http.server 3000
